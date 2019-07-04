@@ -5,6 +5,7 @@ import { connect } from 'react-redux';
 import { userActions } from '../../actions';
 import * as S from './style';
 
+
 class LoginPage extends React.Component {
     constructor(props) {
         super(props);
@@ -44,6 +45,7 @@ class LoginPage extends React.Component {
         return (
 
         <S.Wrapper>
+
             <S.BannerWrapper>
                 <S.Banner/>
             </S.BannerWrapper>

@@ -12,7 +12,7 @@ export const BannerWrapper = styled.div`
 
 export const Banner = styled.div`
     height:50px;
-    Background-color:#3498DB;
+    Background-color:#0078d7;
 `;
 
 export const Input = styled.input`
